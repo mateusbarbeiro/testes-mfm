@@ -224,16 +224,16 @@
       ]
     }
   ],
-  "usuario": [{
-     id: 1,
-    nome: "Mateus Barbeiro Garcia",
-    cpf: "293.159.240-45",
-    nascimento: '01/01/1999',
-    email: "mateusgarcia2001@gmail.com",
-    ra: "875423-8",
-    turma: "Engenharia de Software",
-    imagem:
+  "usuario" : {
+     "id": 1,
+    "nome": "Mateus Barbeiro Garcia",
+    "cpf": "293.159.240-45",
+    "nascimento": "01/01/1999",
+    "email": "mateusgarcia2001@gmail.com",
+    "ra": "875423-8",
+    "turma": "Engenharia de Software",
+    "imagem":
         "https://lh3.googleusercontent.com/a-/AOh14GhtQX9-QpRsg2G_iSAR--pnMwXpM5F5P084ypqSMAk=s288-p-rw-no",
-    senha: "12345"
-   }]
+    "senha": "12345"
+  }
 }
