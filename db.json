@@ -224,7 +224,7 @@
       ]
     }
   ],
-  "usuario": {
+  "usuario": [{
      id: 1,
     nome: "Mateus Barbeiro Garcia",
     cpf: "293.159.240-45",
@@ -235,5 +235,5 @@
     imagem:
         "https://lh3.googleusercontent.com/a-/AOh14GhtQX9-QpRsg2G_iSAR--pnMwXpM5F5P084ypqSMAk=s288-p-rw-no",
     senha: "12345"
-   }
+   }]
 }
