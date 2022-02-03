@@ -37,7 +37,8 @@
       "emailResponsavel": "responsavel@email.com",
       "fotoResponsavel":
           "https://lh3.googleusercontent.com/a-/AOh14GhtQX9-QpRsg2G_iSAR--pnMwXpM5F5P084ypqSMAk=s288-p-rw-no",
-      "fechado": true
+      "fechado": true,
+      "turmas": [1, 2, 3]
     },
     {
       "id": 2,
@@ -50,7 +51,8 @@
       "emailResponsavel": "responsavel@email.com",
       "fotoResponsavel":
           "https://lh3.googleusercontent.com/a-/AOh14GhtQX9-QpRsg2G_iSAR--pnMwXpM5F5P084ypqSMAk=s288-p-rw-no",
-      "fechado": true
+      "fechado": true,
+      "turmas": [1, 2, 3]
     },
     {
       "id": 3,
@@ -63,7 +65,8 @@
       "emailResponsavel": "responsavel@email.com",
       "fotoResponsavel":
           "https://lh3.googleusercontent.com/a-/AOh14GhtQX9-QpRsg2G_iSAR--pnMwXpM5F5P084ypqSMAk=s288-p-rw-no",
-      "fechado": true
+      "fechado": true,
+      "turmas": [1, 2, 3]
     },
     {
       "id": 4,
@@ -76,7 +79,8 @@
       "emailResponsavel": "responsavel@email.com",
       "fotoResponsavel":
           "https://lh3.googleusercontent.com/a-/AOh14GhtQX9-QpRsg2G_iSAR--pnMwXpM5F5P084ypqSMAk=s288-p-rw-no",
-      "fechado": false
+      "fechado": false,
+      "turmas": [1, 2, 3]
     }
   ],
   "responderLista": [
