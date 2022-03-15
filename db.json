@@ -1,5 +1,6 @@
 {
-  "users": {
+  "users": [
+    {
       "name": "Mateus",
       "birthDate": "27/11/2021",
       "cpf": "124.198.259-77",
@@ -20,4 +21,5 @@
       "id": 3,
       "email": "mateusgarcia2001@gmail.com"
     }
+  ]
 }
